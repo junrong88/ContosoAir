@@ -1,4 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/zhengjunrong/Contoso%20Air/_apis/build/status/junrong88.ContosoAir?branchName=master)](https://dev.azure.com/zhengjunrong/Contoso%20Air/_build/latest?definitionId=4&branchName=master)
 
 
 # Microsoft.Github CI Demo
